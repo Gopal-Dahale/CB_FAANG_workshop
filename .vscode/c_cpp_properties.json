@@ -1,0 +1,13 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": ["${workspaceFolder}/**"],
+      "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+      "windowsSdkVersion": "10.0.18362.0",
+      "intelliSenseMode": "${default}",
+      "compilerPath": "C:/MinGW/bin/g++.exe"
+    }
+  ],
+  "version": 4
+}
